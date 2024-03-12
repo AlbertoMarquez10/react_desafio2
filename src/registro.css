@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+.conteiner{
+    background-color: white;
+    border-radius: 5%;
+    padding: 15px;
+}
+img{
+    width: 20%;
+}
+.linkedin{
+    object-fit: cover;
+}
